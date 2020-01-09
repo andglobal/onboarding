@@ -20,7 +20,7 @@ html {
 }
 
 .headerimage {
-    background-image: url("/img/frooontend.png");
+    background-image: url("https://andglobal.github.io/onboarding/img/frooontend.png");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
